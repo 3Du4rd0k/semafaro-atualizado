@@ -1,1 +1,1 @@
-Projeto de Semáfaro feito em JavaScript
+Projeto de Semáfaro feito em JavaScript finalizado!!
